@@ -1,0 +1,31 @@
+table{
+    background-color: rgb(251, 251, 251);
+    padding: 20px;
+    border-spacing: 0 8px;
+}
+textarea{
+    border-radius: 5px;
+    width: 100%;
+}
+.login{
+    background-color: rgb(81, 81, 237);
+    color: white;
+    border:none;
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px 8px;
+}
+.elemen{
+    background-color: rgb(234, 40, 40);
+    color: white;
+    padding: 8px;
+    display: none; 
+    border-radius: 5px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
